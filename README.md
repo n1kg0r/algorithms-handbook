@@ -1,10 +1,9 @@
 # algorithms-handbook
 
-===================================
-Volume 1 — Algorithms DSA
-===================================
+# Volume 1 — Algorithms DSA
 
 02 — Data Structures (from scratch)
+
     A. Arrays
        - dynamic arrays
        - implementing push/pop/resize
@@ -30,6 +29,7 @@ Volume 1 — Algorithms DSA
        - priority queue
 
 03 — Algorithms
+
     A. Sorting
        - bubble/insertion/selection
        - merge sort
@@ -53,6 +53,7 @@ Volume 1 — Algorithms DSA
 
 04 — Graph Theory
     • representing graphs (adj list, matrix)
+    
     A. Graph Traversal
        - BFS
        - DFS
